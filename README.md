@@ -14,4 +14,10 @@ OAuth2.0 定位：一个框架而不是单个协议
 ### 客户端凭据许可类型  
 ![客户端凭据许可类型](https://github.com/momokanni/OAuth2/blob/master/images/%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%87%AD%E6%8D%AE%E8%AE%B8%E5%8F%AF%E7%B1%BB%E5%9E%8B.jpg)  
 
+### 资源拥有者凭据许可类型（密码流程） 不推荐！！！   
+![资源拥有者凭据许可类型](https://github.com/momokanni/OAuth2/blob/master/images/%E8%B5%84%E6%BA%90%E6%8B%A5%E6%9C%89%E8%80%85%E5%87%AD%E6%8D%AE%E8%AE%B8%E5%8F%AF%E7%B1%BB%E5%9E%8B.jpg)  
+
+### 断言许可类型  
+
+
 
